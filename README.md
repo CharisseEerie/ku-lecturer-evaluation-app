@@ -1,12 +1,12 @@
-# KU Exam Card App – No More Queues
+# KU Exam Card App 
 
 **Mobile App-based Lecturer Evaluation System for Automated Exam Card Access**  
 Built with love by **Charissa Sarah A.** | I21/6574/2021 | B.Sc. Physics  
 Kenyatta University | November 2025
 
 ## Why I Built This
-Every semester I queued from 4 a.m. outside the registry just to prove I evaluated my lecturers.  
-I cried in those lines. My friends cried.  
+The last semester I queued from 10 a.m. to evening outside the registry just to prove I evaluated my lecturers.  
+I cried in that line. My friends cried.  
 So I spent 8 months building the app that ends this suffering forever.
 
 ## Features
@@ -15,8 +15,8 @@ So I spent 8 months building the app that ends this suffering forever.
 - Real-time lecturer evaluation (0/8 → 8/8)
 - One-tap exam card request
 - Admin dashboard with 20 students
-- Instant approval → green tick
-- No queues. No paper. No tears.
+- Instant approval with a green tick and green approved bubble
+
 
 ## Screenshots
 
@@ -26,7 +26,7 @@ So I spent 8 months building the app that ends this suffering forever.
 
 ![Evaluation Progress](screenshots/evaluation_progress.png)  ![Evaluation Complete](screenshots/evaluation_complete.png)  ![Evaluation Screen](screenshots/evaluationscreen.png)
 
-![Admin Dashboard](screenshots/adminhome.png)  ![Live Approval](screenshots/admin_approve.png)
+![Admin Dashboard](screenshots/adminhome.png)  ![Live Approval](screenshots/admin_approve.jpg)
 
 ## Demo Credentials (I have generously listed them for you in the login screen)
 **Student:** `I21/6574/2021@students.ku.ac.ke` → `password123`  
