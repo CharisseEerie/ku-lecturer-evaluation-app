@@ -1,4 +1,0 @@
-body { font-family: sans-serif; margin: 2rem; }
-h1 { color: #333; }
-.error { color: red; }
-.success { color: green; }
