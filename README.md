@@ -20,13 +20,13 @@ So I spent 8 months building the app that ends this suffering forever.
 
 ## Screenshots
 
-| Login | Home Dashboard | Evaluation | Request Sent |
-|------|----------------|------------|--------------|
-| ![Login](screenshots/adminlogin.png), (screenshots/studentlogin.png) | ![Home](screenshots/home1.png) , (screenshots/home2.png) | ![Evaluation](screenshots/evaluation_progress.png), (screenshots/evaluation_complete.png) , (screenshots/evaluationscreen.png)| 
+![Student Login](screenshots/studentlogin.png)  ![Admin Login](screenshots/adminlogin.png)
 
-| Admin Panel | Approving Live | Profile | Fee Balance |
-|-------------|----------------|---------|-------------|
-| ![Admin](screenshots/adminhome.png) | ![Approve](screenshots/admin_approve.png) | 
+![Home Dashboard 1](screenshots/home1.png)  ![Home Dashboard 2](screenshots/home2.png)
+
+![Evaluation Progress](screenshots/evaluation_progress.png)  ![Evaluation Complete](screenshots/evaluation_complete.png)  ![Evaluation Screen](screenshots/evaluationscreen.png)
+
+![Admin Dashboard](screenshots/adminhome.png)  ![Live Approval](screenshots/admin_approve.png)
 
 ## Demo Credentials (I have generously listed them for you in the login screen)
 **Student:** `I21/6574/2021@students.ku.ac.ke` → `password123`  
@@ -39,11 +39,17 @@ cd ku-examcard-app
 flutter pub get
 flutter run
 
+--- 
+
+```
+
 ## Tech Stack
 
 Flutter 3.19 + Dart
 Google Fonts
 In-memory mock database (for live demo)
+
+---
 
 ## My Journey
 Jan–Mar 2025 → Website version
@@ -57,6 +63,8 @@ Every KU student who ever queued
 
 The future is mobile.
 ⭐ Star this repo if you believe students deserve better!
+
+---
 
 “I hope this work inspires some simpler, less stressful solutions for everyone.”
 — Charissa Sarah A., November 2025
