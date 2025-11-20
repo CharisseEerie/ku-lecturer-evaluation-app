@@ -20,13 +20,10 @@ So I spent 8 months building the app that ends this suffering forever.
 
 ## Screenshots
 
-![Student Login](screenshots/studentlogin.png)  ![Admin Login](screenshots/adminlogin.png)
-
-![Home Dashboard 1](screenshots/home1.png)  ![Home Dashboard 2](screenshots/home2.png)
-
-![Evaluation Progress](screenshots/evaluation_progress.png)  ![Evaluation Complete](screenshots/evaluation_complete.png)  ![Evaluation Screen](screenshots/evaluationscreen.png)
-
-![Admin Dashboard](screenshots/adminhome.png)  ![Live Approval](screenshots/admin_approve.jpg)
+<img src="screenshots/studentlogin.png" width="300"/> <img src="screenshots/adminlogin.png" width="300"/>
+<img src="screenshots/home1.png" width="300"/> <img src="screenshots/home2.png" width="300"/>
+<img src="screenshots/evaluation_progress.png" width="300"/> <img src="screenshots/evaluation_complete.png" width="300"/>
+<img src="screenshots/adminhome.png" width="300"/> <img src="screenshots/admin_approve.jpg" width="300"/>
 
 ## Demo Credentials (I have generously listed them for you in the login screen)
 **Student:** `I21/6574/2021@students.ku.ac.ke` → `password123`  
